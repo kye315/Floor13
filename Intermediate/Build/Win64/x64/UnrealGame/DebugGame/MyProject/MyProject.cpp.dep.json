@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kaige\\desktop\\uni\\f13new\\floor13\\intermediate\\source\\myproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kaige\\desktop\\uni\\f13new\\floor13\\intermediate\\build\\win64\\x64\\myproject\\debuggame\\core\\sharedpch.core.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kaige\\desktop\\uni\\f13new\\floor13\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\myproject\\definitions.myproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

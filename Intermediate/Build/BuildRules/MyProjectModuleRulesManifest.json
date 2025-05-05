@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kaige\\Desktop\\uni\\f13new\\Floor13\\Intermediate\\Source\\MyProject.Build.cs",
+		"C:\\Users\\kaige\\Desktop\\uni\\f13new\\Floor13\\Intermediate\\Source\\MyProject.Target.cs",
+		"C:\\Users\\kaige\\Desktop\\uni\\f13new\\Floor13\\Intermediate\\Source\\MyProjectClient.Target.cs",
+		"C:\\Users\\kaige\\Desktop\\uni\\f13new\\Floor13\\Intermediate\\Source\\MyProjectEditor.Target.cs",
+		"C:\\Users\\kaige\\Desktop\\uni\\f13new\\Floor13\\Intermediate\\Source\\MyProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

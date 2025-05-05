@@ -1,0 +1,16 @@
+MyProject/Binaries/Win64/D3D12/D3D12Core.dll	2024-09-02T09:51:55.283Z
+MyProject/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2024-09-02T09:51:55.367Z
+MyProject/Binaries/Win64/MyProject-Win64-Shipping.exe	2025-05-05T06:18:51.679Z
+MyProject/Binaries/Win64/tbb.dll	2024-09-02T09:51:48.040Z
+MyProject/Binaries/Win64/tbbmalloc.dll	2024-09-02T09:51:48.127Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2024-09-02T09:56:00.289Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2024-09-02T09:51:12.830Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2024-09-02T09:51:48.347Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2024-09-02T09:51:48.372Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2024-09-02T09:51:48.374Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-09-02T09:51:52.905Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-09-02T09:51:52.906Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-09-02T09:51:55.511Z
+Engine/Content/Renderer/TessellationTable.bin	2024-09-02T09:54:23.759Z
+Engine/Content/Slate/Cursor/invisible.cur	2024-09-02T09:54:23.811Z
+MyProject.exe	2025-05-05T08:04:15.599Z
