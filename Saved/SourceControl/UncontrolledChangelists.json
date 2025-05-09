@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s5394061/Desktop/GitHub/Floor13/Content/TopDown/Blueprints/Enemies/Chr_Grunt.uasset",
+				"C:/Users/s5394061/Desktop/GitHub/Floor13/Content/Blueprints/GameMode_Fixed.uasset",
+				"C:/Users/s5394061/Desktop/GitHub/Floor13/Content/Materials/billboards/NURSPUM.uasset",
+				"C:/Users/s5394061/Desktop/GitHub/Floor13/Content/Blueprints/billboards/Billboard.uasset",
+				"C:/Users/s5394061/Desktop/GitHub/Floor13/Content/__ExternalActors__/Stages/Level1/A/6S/BWQ86Z0I1HPT374CGN5DNZ.uasset",
+				"C:/Users/s5394061/Desktop/GitHub/Floor13/Content/Materials/billboards/NURSPUM_Mat.uasset",
 				"C:/Users/kaige/Documents/Unreal Projects/Floor13/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/MW/1XOZALKJ0KQTIEHEMDPGQW.uasset",
 				"C:/Users/kaige/Documents/Unreal Projects/Floor13/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/kaige/Documents/Unreal Projects/Floor13/Content/TopDown/Input/New/IMC_NewMovement.uasset",
