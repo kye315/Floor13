@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\floor13\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\grenade_explosion.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\floor13\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "f:\\floor13\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "f:\\floor13\\source\\myproject\\public\\grenade_explosion.h",
+            "f:\\floor13\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\grenade_explosion.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
